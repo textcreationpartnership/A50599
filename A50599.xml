@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Memoriall intended to be delivered to the Lords State, Monday 10 March, stilo novo to the High and mighty Lords the States of Holland / by the forraign Anabaptist Churches, upon the apprehending and giving up Colonel Barkestead, Colonel Okey, and Mr. Miles Corbet to the English resident ; written originally in Dutch, and translated into English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50599</idno>
+            <idno type="STC">Wing M1690</idno>
+            <idno type="STC">ESTC R67</idno>
+            <idno type="EEBO-CITATION">13648280</idno>
+            <idno type="OCLC">ocm 13648280</idno>
+            <idno type="VID">100951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50599)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Memoriall intended to be delivered to the Lords State, Monday 10 March, stilo novo to the High and mighty Lords the States of Holland / by the forraign Anabaptist Churches, upon the apprehending and giving up Colonel Barkestead, Colonel Okey, and Mr. Miles Corbet to the English resident ; written originally in Dutch, and translated into English.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of unidentified work in Dutch.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barkstead, John, d. 1662.</term>
+               <term>Okey, John, d. 1662.</term>
+               <term>Corbet, Miles, d. 1662.</term>
+               <term>Asylum, Right of --  Early works to 1800.</term>
+               <term>Extradition --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Early works to 1800.</term>
+               <term>Asylum, Right of --  Netherlands --  Early works to 1800.</term>
+               <term>Extradition --  Netherlands --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100951:1"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:100951:1"/>
+            <!-- PDF PAGE 79 -->
+            <p>A MEMORIALL Intended to be delivered to the Lords States, <hi>Monday</hi> 10 <hi>March,</hi> Stilo Novo.</p>
+            <p>TO THE High and Mighty LORDS the STATES of <hi>HOLLAND.</hi>
+            </p>
+            <p>BY THE Forraign Anabaptiſt Churches, upon the ap<g ref="char:EOLhyphen"/>prehending and giving up Colonel <hi>Barkeſtead,</hi> Colonel <hi>Okey,</hi> and Mr. <hi>Miles Corbet.</hi>
+            </p>
+            <p>To the Engliſh Reſident.</p>
+            <p>Written Originally in <hi>Dutch,</hi> and Tranſlated into <hi>Engliſh.</hi>
+            </p>
+            <q xml:lang="lat">
+               <p>Laudabant hanc urbem, quod omnes homines ſibi praemetuentes ſi illuc perfugiſſent auxilii compotes faciebat.</p>
+               <bibl>Sophocl.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> printed in the year 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100951:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="3" facs="tcp:100951:2"/>
+            <!-- PDF PAGE 80 -->
+            <head>A MEMORIALL Intended to be preſented to the High and Mighty Lords, the STATES of <hi>HOLLAND.</hi>
+            </head>
+            <head type="sub">
+               <hi>BY THE</hi> Forraign Anabaptiſt Churches there, upon the Apprehenſion and yielding up of Col. <hi>Barkſtead, &amp;c.</hi> to the Engliſh <hi>Re<g ref="char:EOLhyphen"/>ſident.</hi>
+            </head>
+            <opener>
+               <salute>High and Mighty Lords,</salute>
+            </opener>
+            <p>IT is not without great cauſe, nor without great conſideration, that we make this ad<g ref="char:EOLhyphen"/>dreſſe to your Lordſhips; we have been alwayes very unwilling to give you the trouble, much leſs the offence of any thing that concerns us, further then the <hi>Publique Liberty</hi> you have profeſſed to maintaine, (and which
+<pb n="4" facs="tcp:100951:3"/>
+               <!-- PDF PAGE 81 -->we think and alwaies judged to be the Baſis and ſureſt foundation of this happy and famous State and Commonwealth) did licenſe and indulge us.</p>
+            <p>We cannot but remember thoſe inducements in our ſelves, that we ſay not invitation from the Cuſtome, and Practiſe and Lawes of theſe Pro<g ref="char:EOLhyphen"/>vinces, that drew us to take up and fix our Reſi<g ref="char:EOLhyphen"/>dence here; and we cannot but with all thank<g ref="char:EOLhyphen"/>fullneſſe of mind as to our particulars, acknow<g ref="char:EOLhyphen"/>ledge the benefits and favours beſides the Com<g ref="char:EOLhyphen"/>mon protection we have received in this place of our ſojourning, by which the ſorrows &amp; difficul<g ref="char:EOLhyphen"/>ties which attend people Exiled, or otherwayes compelled to Abandon their beloved Native Countries, have been greatly alleviated and leſſened to us, if not wholly Abated and Re<g ref="char:EOLhyphen"/>moved.</p>
+            <p>Nor ſhall we ever be wanting in all Humble, Dutiful and Civil Demeanour, in a peaceable and orderly ſubjection to the Magiſtracy ſet over us (though falſely traduced by our Adverſaries, as if our Principles were enmity againſt all Govern<g ref="char:EOLhyphen"/>ment) to teſtifie our gratitude to your Lordſhips, whoſe Glorious and juſt Dominion we eſteem as raiſed by God to this Greatneſſe, as having been the Aſylum and Sanctuary of his afflicted and perſecuted Churches:</p>
+            <p>But amidſt theſe Gratulations we crave your pardon my Lords, while we declare our ſenti<g ref="char:EOLhyphen"/>ments of a late ſtate occurrence, which ſeems in many circumſtances thereof not obliquely to
+<pb n="5" facs="tcp:100951:3"/>
+               <!-- PDF PAGE 81 -->point at our Condition, and to endanger the en<g ref="char:EOLhyphen"/>joyment of thoſe priviledges and immunities which have hitherto been ſo carefully and invio<g ref="char:EOLhyphen"/>lably preſerved towards all Forraigners. The matter is this:</p>
+            <p>We underſtand that ſome Engliſh Exiles comming down out of <hi>Germany</hi> into this Pro<g ref="char:EOLhyphen"/>vince of <hi>Holland,</hi> as a more convenient refuge and ſhelter, or rather drawn hither as to a ſnare and trap, for the near conveyance of it as to their reſhipping again for <hi>England,</hi> were ſeized on at <hi>Delfe,</hi> by Sir <hi>George Downing</hi> the Reſident of the King of Great <hi>Brittain,</hi> by a warrant from your Lordſhips, and ſecured for a while in the Priſon of that City, where offendors againſt your Laws are uſually and onely ought to be kept and de<g ref="char:EOLhyphen"/>tained.</p>
+            <p>We ſhall not meddle with the Conditions of thoſe perſons, nor the quality of their Crimes, which as they are not cogniſable before your Lordſhips, will ſo much the leſſe concern us to take notice of; Onely thus far we deſire to take this fair advantage and opportunity of declaring our Abhorrance &amp; Deteſtation of that Monſtrous and Unparalleld Fact, whereby the Life of that Pious and Excellent Prince King <hi>CHARLES</hi> the Firſt of Great <hi>Brittain</hi> was ſo Traiterouſly and Barbarouſly taken away by ſome wicked Regi<g ref="char:EOLhyphen"/>cides in that Kingdome, to the great ſcandal and Infamy of the reformed Churches throughout Chriſtendome, and more peculiarly imputed to thoſe of our Profeſſion and perſwaſion.</p>
+            <p>
+               <pb n="6" facs="tcp:100951:4"/>
+               <!-- PDF PAGE 82 -->
+Every Circumſtance of that impious Fact we do from our heart diſclaime, and with fear and trembling admire and adore the Divine Juſtice in overtaking that wickedneſſe, and heaping the bloud ſpilt by thoſe men upon their own heads, by a miraculous <hi>reſtitution</hi> of the <hi>Son</hi> of that bleſ<g ref="char:EOLhyphen"/>ſed Prince to the Throne of his Anceſtors; the extent of whoſe merciful diſpoſition is juſtly obſtructed and impeded towards thoſe Perſons.</p>
+            <p>But that which we have to lay before your Lordſhips, is the naked and abſtracted condition of theſe men (as Forraigners and as they relate to us) from any Engliſh Charge or Guilt whatſoe<g ref="char:EOLhyphen"/>ver, of which as before, we ſaid your Lordſhips are not competent Judges, and indeed no Judges at all; &amp; therefore <hi>quo jure</hi> or in what in latitude of equity, could your Lordſhips firſt appre<g ref="char:EOLhyphen"/>hend them by your Order and by your Officer, then ſecure them in your Priſon; and laſtly without cauſe ſhown or compeering them, deli<g ref="char:EOLhyphen"/>ver them into the hands of the Engliſh to be ſent home to their Tryall and Condemna<g ref="char:EOLhyphen"/>tion is our ſcruple.</p>
+            <p>In the Articles of the Union of theſe Confede<g ref="char:EOLhyphen"/>rate Provinces, there is expreſſe caution againſt any ſuch Deliveries, nothing is more frequent in all the Records, Regiſters, and Acts of the ſe<g ref="char:EOLhyphen"/>veral Treaties, Dyets, and General Councils, which we forbear to recite becauſe they are nu<g ref="char:EOLhyphen"/>merous and moſt evident: nor ſhall we mention the reaſons of thoſe Lawes and Decrees becauſe they are as obvious. But ſo ſtrict has the obſer<g ref="char:EOLhyphen"/>vation
+<pb n="7" facs="tcp:100951:4"/>
+               <!-- PDF PAGE 82 -->of them been, that an Offender in one of theſe Provinces eſcaping into another, hath thereby avoided the penalty of the Law, and un<g ref="char:EOLhyphen"/>leſſe for great capital crimes never was remitted to the place of his Fact.</p>
+            <p>We ſhall forbear to name how from <hi>(talibus ini<g ref="char:EOLhyphen"/>tiis Roma crevit)</hi> from ſuch beginnings (the con<g ref="char:EOLhyphen"/>flux of all ſort of looſe people,) great <hi>Rome</hi> pre<g ref="char:EOLhyphen"/>ſently roſe unto her Empire, becauſe it may ſeem a calumny of this State, and by our Enemies be reflected on our ſelves: But this is moſt certain, that no ſmall additaments of wealth and power, have accrued to the Netherlands, ſince it hath been the common receptacle of all Nations, by whoſe joynt Arts and Manufactures as well as Arms they have improved themſelves to this pu<g ref="char:EOLhyphen"/>iſſant Grandeur. Nor is there any Precedent or Example of this Nature that occurs to us in all your Hiſtories. The incomparably Learned <hi>Hugo Grotius,</hi> the Honour of this Country and beſt Judge in this caſe, though he ſeems to encline to the denying of ſubterfuge to notorious and hain<g ref="char:EOLhyphen"/>ous offenders, yet hath he an expedient for them, which we thought fit to reduce to your Lord<g ref="char:EOLhyphen"/>ſhips Memory. <q>Such then are to be puniſht or yielded, or removed at leaſt; ſo the <hi>Cymaei</hi> in <hi>Herodotus</hi> when they neither would deliver <hi>Pa<g ref="char:EOLhyphen"/>ctyes</hi> the <hi>Perſian,</hi> nor durſt retain him, permitted him to depart to <hi>Mitylene. Perſeus</hi> King of <hi>Mace<g ref="char:EOLhyphen"/>don</hi> in his defence to <hi>Martius</hi> ſpeaking of thoſe that were ſaid to have conſpir'd againſt <hi>Eumenes;</hi>
+                  <note place="margin">Livy lib. 22. Lib. 37.</note> 
+                  <hi>So ſoon as, being admoniſht by you, I found the men
+<pb n="8" facs="tcp:100951:5"/>
+                     <!-- PDF PAGE 83 -->in</hi> Macedonia, <hi>I commanded them away,</hi> and charged them never to returne into my <hi>Do<g ref="char:EOLhyphen"/>minions.</hi> The <hi>Samothracians</hi> declared to <hi>Evander</hi> who had lyen in weight for <hi>Eumenes,</hi> that he ſhould quit the Temple: ſo <hi>Rudolphus</hi> the Em<g ref="char:EOLhyphen"/>perour removed from him <hi>Chriſtopher Sbovius.</hi> And Queen <hi>Elizabeth</hi> of <hi>England</hi> anſwered the <hi>Scots,</hi> that ſhe would either render Earl <hi>Bothwel</hi> or ſend him out of <hi>England.</hi> But this right of requiring to puniſhment them that had fled their Country in theſe laſt Ages in moſt part of <hi>Europe,</hi> is uſed only in thoſe crimes w<hi rend="sup">ch</hi> do touch the publique State, or are of a very hainous na<g ref="char:EOLhyphen"/>ture, and unleſſe in the <hi>Conditions</hi> of the <hi>League, it be ſo provided,</hi> and a more cloſe agreement made. That of the Engliſh with the French ap<g ref="char:EOLhyphen"/>pointed rebels and Fugitives to be <hi>yielded;</hi> with the <hi>Burgundians</hi> to be <hi>expelled.</hi>
+               </q>
+            </p>
+            <p>So it appears that the League with this State, being the half of that Dutchy of <hi>Burgundy</hi> directs expulſion: &amp; we remember very well, that in the Treaty this State made with <hi>Oliver Cromwell</hi> ſoon after thoſe Naval Fights, 1654. the moſt preſt Article by him, as mainly conducing to his ſecu<g ref="char:EOLhyphen"/>rity in the Uſurpation, was, that if any of the Enemies of the Commonwealth of <hi>England</hi> (who they were then reputed and taken to be, we liſt not nor is it to our purpoſe to mention) ſhould come into thoſe Provinces, the States were enjoyned upon notice and diſcovery of their being there, to warn them to depart within fourteen dayes out of any of their Territories,
+<pb n="9" facs="tcp:100951:5"/>
+               <!-- PDF PAGE 83 -->under penalty of being taken and delivered to the Engliſh. And this was reciprocal on both ſides, but was carefully obſerved here to the no little ſcandal and obloquy upon this State who ſhewed no more reſpect to the intereſt of his il<g ref="char:EOLhyphen"/>luſtrious Highneſſe the Prince of <hi>Aurange,</hi> the Engliſh Royaliſts departing at the prefixed Time.</p>
+            <p>To ſay that theſe men are <hi>Hoſtés Humani Gene<g ref="char:EOLhyphen"/>ris,</hi> publique Enemies of mankind, in that they have violated all Lawes both Divine and Hu<g ref="char:EOLhyphen"/>mane, is ſome i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entive to incompaſſion, but no rule of Juſtice. For firſt they ſhould have been declared ſo in theſe Provinces, as is uſual to<g ref="char:EOLhyphen"/>wards Pyrates, who yet notwithſtanding find in ſome Countries defence and ſafeguard; <hi>For the knowledge of the cauſe ought to proceed the dedi<g ref="char:EOLhyphen"/>tion and render of the criminal</hi> ſaith <hi>Grotius</hi> again. It is not meet to give up men untryed ſaith <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> in his <hi>Romulus.</hi> The King of <hi>Scotland</hi> in <hi>Cambden, Anno</hi> 1585. declared to Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> that he would tranſmit <hi>Ferinharſt</hi> and the <hi>Chancellour</hi> too, if they were convicted by a fair tryal, and not before, though their guilt was very apparent.</p>
+            <p>It may be objected that the Cuſtome in ancient times was otherwiſe, deducing it from that ſtory of the <hi>Benjaminites,</hi> who were required to deliver up thoſe wicked men that had com<g ref="char:EOLhyphen"/>mitted that horrible villany on the <hi>Levites</hi> wife, <hi>Judges</hi> 20. we will not determine the matter as others doe by the ſucceſſe: certainly it was for
+<pb n="10" facs="tcp:100951:6"/>
+               <!-- PDF PAGE 84 -->ſome reaſon of State why the <hi>Benjamites</hi> refuſed, as taking themſelves to have the abſolute power and command in their own Tribe; as is alſo now the practiſe in theſe Provinces; beſides it fits not the preſent matter: that demand of dedition was for a crime committed in a place and jurisdiction where their power was the proper authority of judging and puniſhing it; this crime was com<g ref="char:EOLhyphen"/>mitted in a Forraign, and muſt be tryed and a<g ref="char:EOLhyphen"/>venged in that, Country. The <hi>Philiſtins</hi> alſo de<g ref="char:EOLhyphen"/>manded <hi>Sampſon</hi> of the <hi>Iſraelites</hi> as an Evil doer, <hi>Judges</hi> 15. but we ſee what ſucceeds, it took not effect; beſides the <hi>Philiſtines</hi> were then Lords over the <hi>Hebrews,</hi> who out of fear were conſtrai<g ref="char:EOLhyphen"/>ned to doe it as they give an Account of it to <hi>Sampſon</hi> himſelf; <hi>Knoweſt thou not that the Phili<g ref="char:EOLhyphen"/>ſtines are rulers over us? what is this that thou haſt done unto us? we are come down to bind thee that we may deliver thee into the hands of the Philiſtins:</hi> Moreover here was <hi>Sampſons</hi> own conſent as a warrant to that action which wanted other then the fear and danger aforeſaid; for he had done nothing but what was juſtifiable, <q>
+                  <hi>Hoſtis Hoſtem occidere voluit,</hi> as he ſaith himſelf, as they did, unto me ſo have they done unto them.</q> So that there is a great diſparity in the caſe, and which your Lordſhips would in no wiſe admit in any circumſtance thereof, as owning no ſubjection or dependance on the Crown of <hi>England.</hi>
+            </p>
+            <p>And if we might intereſt our ſelves and lay claim to the reputation of theſe Provinces, we ſhould think they ſuffered much in loſſe of Ho<g ref="char:EOLhyphen"/>nour
+<pb n="11" facs="tcp:100951:6"/>
+               <!-- PDF PAGE 84 -->by this Action. For we think with due ſubmiſſion to your wiſdoms, that the world will take this for a great diminution of that Sove<g ref="char:EOLhyphen"/>raignty which you have ſo nobly aſſerted, ſince things of leſſer moment, we conceive, have as prudentially and tenaciouſly been inſiſted on by you, and which were matters not ſo congenial to your Country Rights and Statutes as this caſe to us ſeems to be.</p>
+            <p>We could better expreſſe the matter indeed; if the Crown which is acknowledged the Defen<g ref="char:EOLhyphen"/>der of the Faith were not to be offended; which though ſome Shelterers here of that Nation of our <hi>way</hi> and Separation would offer, yet we aſ<g ref="char:EOLhyphen"/>ſure your Lordſhips that we have no Commu<g ref="char:EOLhyphen"/>nion with them in that thing.</p>
+            <p>Indeed there is a Maxime among the Civilians that <hi>
+                  <g ref="char:V">Ʋ</g>tilitas eſt mater juſtitiae &amp; aequitatis;</hi> what juſtice or equity is in this matter will be ſhrewdly gheſt whence it proceedeth. The advantages and reaſons of State we confeſſe are too high a matter for our underſtanding, and the concerns of particular perſons ſuch as theſe mens too low for Stateſmens conſideration, where they interpoſe betwixt the Amity of Princes. And ſo we would acquieſce, not daring to wade in thoſe myſteries of Government, though we cannot but be ſenſible of how great importance the Engliſh Friendſhip is to theſe Countries, the continuance whereof we do congratulate and ſhall daily pray for. But ſince <hi>poena &amp; crimen ad paucos, terror ad omnes,</hi> the fear of this example
+<pb n="12" facs="tcp:100951:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 85 -->reacheth us, though the crime and puniſhment (from which God hath and we hope will pre<g ref="char:EOLhyphen"/>ſerve us) but theſe few; we are bold to implore your Lordſhips wonted Protection and the Con<g ref="char:EOLhyphen"/>firmation of our Priviledges in our Liberty and Eſtates: deſiring pardon if our fear hath tranſpor<g ref="char:EOLhyphen"/>ted us beyond our Duty (for in ſmall matters and not criminal, this may chance to be drawn in imitation) which with the greateſt affection ima<g ref="char:EOLhyphen"/>ginable, we profeſſe to you as our Superiours and moſt benign Protectours.</p>
+            <p>We ſhall alwayes pray for the proſperity and happineſſe of your High and Mighty Lordſhips, and the people of this Countrey under your obe<g ref="char:EOLhyphen"/>dience, hoping that in their peace we ſhall find peace; that what was once ſaid in the praiſe of the <hi>Athenians,</hi> that they were a hiding place and comfort to all afflicted men every where, may be truly verified of the <hi>Hollanders</hi> to their everlaſting Glory and Renown.</p>
+            <epigraph>
+               <q xml:lang="lat">Si crimen iſtis aliquot hoſpitibus dabis, Jus im<g ref="char:EOLhyphen"/>petrabis,<lb/>
+Vi quidem hinc non ayſtrahes.</q>
+               <bibl>
+                  <hi>Dem.</hi> apud <hi>Sophoclem.</hi>
+               </bibl>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100951:7"/>
+            <!-- PDF PAGE 85 -->
+         </div>
+      </body>
+   </text>
+</TEI>
